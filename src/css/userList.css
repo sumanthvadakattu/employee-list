@@ -1,0 +1,33 @@
+#card {
+    background-color: #a3a098;
+    display:inline-block;
+    margin: 10px;
+}
+
+#exactCenter {
+    background-color: #a3a098;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
+.userTable table {
+    width: 100%;
+  }
+  .userTable table tr {
+    width: 100%;
+  }
+  .userTable table tr th {
+    border: 1px solid #ccc;
+    border-bottom: 0px solid #888;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(204, 204, 204, 0.363);
+  }
+  .userTable table tr td {
+    border: 1px solid #ccc;
+    border-top: 0px solid #ccc;
+    text-align: center;
+    padding: 7px;
+  }
